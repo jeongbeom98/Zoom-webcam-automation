@@ -1,1 +1,0 @@
-# Zoom-webcam-automation
